@@ -19,3 +19,6 @@ Solutions for LeetCode problems in Java and Python.
 | 0344 | [Reverse String](https://leetcode.cn/problems/reverse-string/)                                           | [0344.md](./Solutions/0344.md) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.cn/problems/longest-palindromic-substring/)             | [0005.md](./Solutions/0005.md) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)   | [0083.md](./Solutions/0083.md) |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)               | [0104.md](./Solutions/0104.md) |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)           | [0144.md](./Solutions/0144.md) |
+| 0543 | [Diameter of Binary Tree](https://leetcode.cn/problems/diameter-of-binary-tree/)                         | [0543.md](./Solutions/0543.md) |
