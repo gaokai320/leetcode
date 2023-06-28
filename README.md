@@ -24,3 +24,6 @@ Solutions for LeetCode problems in Java and Python.
 | 0543 | [Diameter of Binary Tree](https://leetcode.cn/problems/diameter-of-binary-tree/)                         | [0543.md](./Solutions/0543.md) |
 | 0509 | [Fibonacci Number](https://leetcode.cn/problems/fibonacci-number/)                                       | [0509.md](./Solutions/0509.md) |
 | 0322 | [Coin Change](https://leetcode.cn/problems/coin-change/)                                                 | [0322.md](./Solutions/0322.md) |
+| 0046 | [Permutations](https://leetcode.cn/problems/permutations/)                                               | [0046.md](./Solutions/0046.md) |
+| 0051 | [N-Queens](https://leetcode.cn/problems/n-queens/)                                                       | [0051.md](./Solutions/0051.md) |
+| 0052 | [N-Queens II](https://leetcode.cn/problems/n-queens-ii/)                                                 | [0052.md](./Solutions/0052.md) |

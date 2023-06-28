@@ -21,12 +21,12 @@
 		"body": [
 			"## Java Solution(s)",
 			"```java",
-			"",
+			"$1",
 			"```",
 			"",
 			"## Python Solutions",
 			"```python",
-			"",
+			"$2",
 			"```"
 		],
 		"description": "Solution template"
