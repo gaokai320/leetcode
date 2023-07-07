@@ -27,3 +27,10 @@ Solutions for LeetCode problems in Java and Python.
 | 0046 | [Permutations](https://leetcode.cn/problems/permutations/)                                               | [0046.md](./Solutions/0046.md) |
 | 0051 | [N-Queens](https://leetcode.cn/problems/n-queens/)                                                       | [0051.md](./Solutions/0051.md) |
 | 0052 | [N-Queens II](https://leetcode.cn/problems/n-queens-ii/)                                                 | [0052.md](./Solutions/0052.md) |
+| 0216 | [Combination Sum III](https://leetcode.cn/problems/combination-sum-iii/)                                 | [0216.md](./Solutions/0216.md) |
+| 0039 | [Combination Sum](https://leetcode.cn/problems/combination-sum/)                                         | [0039.md](./Solutions/0039.md) |
+| 0040 | [Combination Sum II](https://leetcode.cn/problems/combination-sum-ii/)                                   | [0040.md](./Solutions/0040.md) |
+| 0047 | [Permutations II](https://leetcode.cn/problems/permutations-ii/)                                         | [0047.md](./Solutions/0047.md) |
+| 0077 | [Combinations](https://leetcode.cn/problems/combinations/)                                               | [0077.md](./Solutions/0077.md) |
+| 0078 | [Subsets](https://leetcode.cn/problems/subsets/)                                                         | [0078.md](./Solutions/0078.md) |
+| 0090 | [Subsets II](https://leetcode.cn/problems/subsets-ii/)                                                   | [0090.md](./Solutions/0090.md) |
