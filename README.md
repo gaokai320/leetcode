@@ -34,3 +34,5 @@ Solutions for LeetCode problems in Java and Python.
 | 0077 | [Combinations](https://leetcode.cn/problems/combinations/)                                               | [0077.md](./Solutions/0077.md) |
 | 0078 | [Subsets](https://leetcode.cn/problems/subsets/)                                                         | [0078.md](./Solutions/0078.md) |
 | 0090 | [Subsets II](https://leetcode.cn/problems/subsets-ii/)                                                   | [0090.md](./Solutions/0090.md) |
+| 0111 | [Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/submissions/)   | [0111.md](./Solutions/0111.md) |
+| 0752 | [Open the Lock](https://leetcode.cn/problems/open-the-lock/)                                             | [0752.md](./Solutions/0752.md) |
